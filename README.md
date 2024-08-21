@@ -42,15 +42,15 @@ import zipfile
 **Following is what you need for this book:**
 This book is for web developers with experience in programming languages and an interest in keeping up with the latest trends in AI-powered web development. Full-stack, front-end, and back-end developers, UI/UX designers, software engineers, and web development enthusiasts will also find valuable information and practical guidelines for developing smarter websites with AI. To get the most out of this book, it is recommended that you have basic knowledge of programming languages such as HTML, CSS, and JavaScript, as well as a familiarity with machine learning concepts.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 3-9).
+With the following software and hardware list you can run all code files present in the book (Chapter 3, 4 , 6-9).
 
 ### Software and Hardware List
 
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
-| 3-9        | Python 3.7 or higher                     | Windows, macOS, or Linux |
-| 3-9        | GitHub Copilot            |Windows, macOS, or Linux |
-| 3-9        | Visual Studio Code            | Windows, macOS, or Linux |
+| 3, 4, 6-9        | Python 3.7 or higher                     | Windows, macOS, or Linux |
+| 3, 4, 6-9        | GitHub Copilot            |Windows, macOS, or Linux |
+| 3, 4, 6-9        | Visual Studio Code            | Windows, macOS, or Linux |
 
 ### Related products
 * Building AI Applications with ChatGPT APIs [[Packt]](https://www.packtpub.com/en-us/product/building-ai-applications-with-chatgpt-apis-9781805127567) [[Amazon]](https://www.amazon.com/Building-Applications-ChatGPT-APIs-DALL/dp/180512756X)
